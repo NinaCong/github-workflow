@@ -16,10 +16,12 @@ Paste this into your Wordpress post:
 <!-- Edit: https://github.com/medillcherubs/[INSERT year-slug]/edit/gh-pages/index.html -->
 ```
 
-Paste this into the bottom of your `index.html`:
+Make sure the following code is at the bottom of your `index.html`:
 
 ```
-<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/pym/0.4.5/pym.min.js"></script> <script> $(function(){ var pymChild = new pym.Child({polling: 500}); }); </script> 
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pym/0.4.5/pym.min.js"></script>
+<script> $(function(){ var pymChild = new pym.Child({polling: 500}); }); </script> 
 ```
 
 
@@ -40,8 +42,10 @@ Paste this into your Wordpress post:
 <!-- Edit: https://github.com/medillcherubs/2016-homepage-slideshow/edit/gh-pages/index.html -->
 ```
 
-Paste this into the bottom of your `index.html`:
+Make sure the following code is at the bottom of your `index.html`:
 
 ```
-<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/pym/0.4.5/pym.min.js"></script> <script> $(function(){ var pymChild = new pym.Child({polling: 500}); }); </script> 
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pym/0.4.5/pym.min.js"></script>
+<script> $(function(){ var pymChild = new pym.Child({polling: 500}); }); </script> 
 ```
