@@ -9,4 +9,4 @@ Each year, to allow Cherubs to program their own interactive graphics and site d
 When a Cherub is ready to put their work on Github, follow these procedures:
 - Create a new repository and name it using this current year and their project slug. For example: `2016-cherub-timeline`.
 - Create a new branch named `gh-pages`.
-- Go to the repo settings, go to *Branches* and change the default branch to `gh-pages`. Still within the repo settings, go to *Collaborators and Teams* and add the Cherubs team you've just made as Read status, and the Admin team you've just made as Admin status.
+- Go to the repo settings, go to **Branches** and change the default branch to `gh-pages`. Still within the repo settings, go to **Collaborators and Teams** and add the Cherubs team you've just made as Read status, and the Admin team you've just made as Admin status.
