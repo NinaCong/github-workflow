@@ -1,7 +1,7 @@
-## Template
+# Template
 Below is both a template for the README files in each Github repository, as well as a fully-filled out example. Please keep in mind that the code snippet to be pasted into the Wordpress post needs you to paste in the project's repo-name TWICE.
 
-# [INSERT year-slug]
+## [INSERT year-slug]
 [INSERT Description of what this project is.]
 
 [INSERT Link to the published version of this project on Github.]
@@ -23,10 +23,10 @@ Paste this into the bottom of your `index.html`:
 ```
 
 
-## Full Example
+# Full Example
 A completely functional and filled-out example of a Cherub Github repo README.
 
-# 2016-homepage-slideshow
+## 2016-homepage-slideshow
 Slideshow at the bottom of the homepage
 
 https://medillcherubs.github.io/2016-homepage-slideshow/
