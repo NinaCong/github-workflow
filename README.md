@@ -10,4 +10,4 @@ When a Cherub is ready to put their work on Github, follow these procedures:
 - Create a new repository and name it using this current year and their project slug. For example: `2016-cherub-timeline`. Initialize the repo with a README.
 - Create a new branch named `gh-pages`.
 - Go to the repo settings, go to **Branches** and change the default branch to `gh-pages`. Still within the repo settings, go to **Collaborators and Teams** and add the Cherubs team you've just made as Read status, and the Admin team you've just made as Admin status.
-- Following [this README template](template-README.md), edit the README file for the repo with the relevant information.
+- Following [this README template](README-template.md), edit the README file for the repo with the relevant information.
