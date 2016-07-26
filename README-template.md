@@ -9,10 +9,12 @@ Below is both a template for the README files in each Github repository, as well
 Paste this into your Wordpress post:
 
 ```
+[raw]
 <div id="github-container"></div>
 <script> var pymParent = new pym.Parent("github-container", "//medillcherubs.github.io/[INSERT year-slug]/index.html", {}); </script>
 
 <!-- Edit: https://github.com/medillcherubs/[INSERT year-slug]/edit/gh-pages/index.html -->
+[/raw]
 ```
 
 Make sure the following code is at the bottom of your `index.html`:
@@ -35,10 +37,12 @@ https://medillcherubs.github.io/2016-homepage-slideshow/
 Paste this into your Wordpress post:
 
 ```
+[raw]
 <div id="homepage-slideshow"></div>
 <script type="text/javascript" src="//www.cherubs2015.org/wp-content/themes/cherubs-2015/js/vendor/pym.min.js"></script> <script> var pymParent = new pym.Parent("homepage-slideshow", "//medillcherubs.github.io/2016-homepage-slideshow/index.html", {}); </script>
 
 <!-- Edit: https://github.com/medillcherubs/2016-homepage-slideshow/edit/gh-pages/index.html -->
+[/raw]
 ```
 
 Make sure the following code is at the bottom of your `index.html`:
