@@ -26,3 +26,8 @@ When a Cherub is ready to put their work on Github, follow these procedures:
 - Create a new index.html file by [copying this template](index.html).
 - Have the Cherub put all their code into their new index.html file.
 - Have the Cherub follow the instructions in their new README file, and post their work into a Wordpress post.
+
+## Documentation
+Somehow other than the Tech team agents will be editing the content of the interactives later. Make sure they know where they can edit each project. 
+- Create a Google Doc, shared with all the instructors and CAs, with a list of repositories from this year.
+- For each project, write the name of the project, such as "Cherub World Records" and then include a direct link to the URL that allows someone to edit that project's index.html file.
