@@ -6,7 +6,7 @@ Below is both a template for the README files in each Github repository, as well
 
 [INSERT Link to the published version of this project on Github.]
 
-Paste this into your Wordpress post:
+Paste this into your Wordpress post, under the "Text" tab instead of the "Visual" tab:
 
 ```
 [raw]
@@ -34,7 +34,7 @@ Slideshow at the bottom of the homepage
 
 https://medillcherubs.github.io/2016-homepage-slideshow/
 
-Paste this into your Wordpress post:
+Paste this into your Wordpress post, under the "Text" tab instead of the "Visual" tab:
 
 ```
 [raw]
