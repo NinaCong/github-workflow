@@ -10,7 +10,6 @@ Paste this into your Wordpress post:
 
 ```
 <div id="github-container"></div>
-<script type="text/javascript" src="//www.cherubs2015.org/wp-content/themes/cherubs-2015/js/vendor/pym.min.js"></script>
 <script> var pymParent = new pym.Parent("github-container", "//medillcherubs.github.io/[INSERT year-slug]/index.html", {}); </script>
 
 <!-- Edit: https://github.com/medillcherubs/[INSERT year-slug]/edit/gh-pages/index.html -->
